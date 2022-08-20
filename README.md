@@ -9,7 +9,8 @@
 - <h2 align="left">Descrição do projeto</h2>
 
 <p align="left">Este projeto foi criando para exercitar alguns conhecimentos basicos em html css e javascript
-o projeto  esta responsivo a telas menores </p>
+o projeto  esta responsivo a telas menores, trata -se de uma empresa que fornece serviços para pessoas que buscam aventuras emocionantes em montainhas
+por todo o mundo</p>
 <br>
 <br>
 
@@ -18,7 +19,7 @@ o projeto  esta responsivo a telas menores </p>
 <p align="left">Segue uma pequena demonstração do projeto em funcionamento</p>
 
   <div align="left">
-  <img src="https://github.com/Lucas8901/Starbucks_page/blob/main/bandicam%202022-08-19%2021-03-35-385%20(1).gif"/>
+  <img src="https://github.com/Lucas8901/Adventure/blob/main/bandicam%202022-08-20%2014-51-50-655%20(1).gif"/>
   </div>
 
 
